@@ -1,4 +1,7 @@
 require 'spec_helper'
+require 'directors_database'
+
+# pp directors_database
 
 describe 'provided method' do
   describe 'flatten_a_o_a' do

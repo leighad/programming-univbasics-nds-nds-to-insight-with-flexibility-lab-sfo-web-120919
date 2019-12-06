@@ -272,7 +272,7 @@ scratch code in separate files, test expressions in IRB. This lesson is
 definitely one of the most challenging ones you'll see &mdash; but it's also
 the most like the daily work programmers do!
 
-Details about the arguments and the expected return tyhpes are provided in
+Details about the arguments and the expected return types are provided in
 comments in `lib/nds_extract.rb`.
 
 ## Conclusion
