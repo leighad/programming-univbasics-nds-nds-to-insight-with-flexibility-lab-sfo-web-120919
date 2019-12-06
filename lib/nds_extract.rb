@@ -110,6 +110,5 @@ end
 def studios_totals(nds)
   a_o_a_movies_with_director_names = movies_with_directors_set(nds)
   movies_with_director_names = flatten_a_o_a(a_o_a_movies_with_director_names)
-  
   return gross_per_studio(movies_with_director_names)
 end
